@@ -1,3 +1,6 @@
+/target/*
+diagrama_de_classes.ucls
+._*
 # Compiled class file
 *.class
 
